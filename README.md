@@ -1,1 +1,1 @@
-# Optimizaci-n-de-la-distribuci-n-de-una-red-de-hidrogeneras-en-Uruguay.
+# Optimizacion-de-la-distribucion-de-una-red-de-hidrogeneras-en-Uruguay.
